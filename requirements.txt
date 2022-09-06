@@ -46,3 +46,4 @@ tables==3.7.0
 blosc==1.10.6
 joblib==1.1.0
 gunicorn==20.1.0
+sdnotify==0.3.2
