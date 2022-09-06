@@ -1,1 +1,1 @@
-web: uvicorn rpc.main:app --host=0.0.0.0 --port=${PORT:-5000}
+web: uvicorn rpc.api_server.webserver:app --host=0.0.0.0 --port=${PORT:-5000}
