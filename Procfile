@@ -1,1 +1,1 @@
-dry: python3 main.py trade
+web: python3 main.py trade
