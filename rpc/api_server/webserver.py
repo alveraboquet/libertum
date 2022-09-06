@@ -179,7 +179,7 @@ class ApiServer(RPCHandler):
             else:
                 self._server.run_in_thread()
             
-            logger.info('Opening web browser')
-            webbrowser.open_new(f"http://{rest_ip}:{rest_port}/trade")
+            # logger.info('Opening web browser')
+            # webbrowser.open_new(f"http://{rest_ip}:{rest_port}/trade")
         except Exception:
             logger.exception("Api server failed to start.")
