@@ -1,1 +1,1 @@
-web: uvicorn rpc.api_server.webserver:app --host=0.0.0.0 --port=${PORT:-5000}
+dry: python3 main.py trade
