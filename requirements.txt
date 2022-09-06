@@ -2,3 +2,14 @@ numpy==1.23.1
 pandas==1.4.3
 
 schedule==1.1.0
+
+# Support for colorized terminal output
+colorama==0.4.5
+
+# Building config files interactively
+questionary==1.10.0
+prompt-toolkit==3.0.30
+
+# Extensions to datetime library
+python-dateutil==2.8.2
+
