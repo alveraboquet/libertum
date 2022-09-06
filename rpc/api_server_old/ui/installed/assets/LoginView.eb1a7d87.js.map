@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "LoginView.eb1a7d87.js",
+  "sources": [
+    "../../src/views/LoginView.vue"
+  ],
+  "sourcesContent": [
+    "<template>\n  <div class=\"container\">\n    <b-card header=\"Freqtrade bot Login\">\n      <Login ref=\"loginForm\" />\n    </b-card>\n  </div>\n</template>\n\n<script lang=\"ts\">\nimport { defineComponent } from 'vue';\n\nimport Login from '@/components/Login.vue';\n\nexport default defineComponent({\n  name: 'LoginView',\n  components: { Login },\n});\n</script>\n\n<style scoped>\n.container {\n  max-width: 520px;\n}\n</style>\n"
+  ],
+  "names": [],
+  "mappings": "sDAaA,GAAA,GAAA,EAAA,CACA,KAAA,YACA,WAAA,CAAA,OAAA,CACA,CAAA"
+}

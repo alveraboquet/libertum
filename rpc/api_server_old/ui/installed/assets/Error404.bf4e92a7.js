@@ -1,0 +1,2 @@
+import{d as a,n}from"./index.061ad1de.js";var o=a({name:"Error404"});var _=function(){var r=this,e=r._self._c;return r._self._setupProxy,e("div",[e("h1",{staticClass:"mb-5"},[r._v("404 Error.")]),e("p",{staticClass:"h4"},[r._v("Ahhhhhhhh! The page you are looking for does not exist.")]),e("p",[r._v(" Don't worry, you can head back to "),e("router-link",{attrs:{to:"/"}},[e("span",[r._v("the main page")])]),r._v(". ")],1)])},t=[],s=n(o,_,t,!1,null,"0bd39cbc",null,null),v=s.exports;export{v as default};
+//# sourceMappingURL=Error404.bf4e92a7.js.map
