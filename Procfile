@@ -1,1 +1,1 @@
-web: python3 main.py trade
+worker: python3 main.py trade
